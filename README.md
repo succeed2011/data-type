@@ -6,7 +6,7 @@ Get data's type
 npm install --save data-type
 ```
 ```
-const dataType = require('data-type');
+const dataType = require('get-data-type');
 
 dataType('test'); // return 'string'
 ```
