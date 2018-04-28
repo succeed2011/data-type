@@ -1,7 +1,7 @@
-# data-type
+# get-data-type
 Get data's type
 
-## how to use data-type
+## how to use get-data-type
 ```
 npm install --save data-type
 ```
