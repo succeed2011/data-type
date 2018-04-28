@@ -1,6 +1,17 @@
 # data-type
 Get data's type
 
+## how to use data-type
+```
+npm install --save data-type
+```
+```
+const dataType = require('data-type');
+
+dataType('test'); // return 'string'
+```
+
+## test
 ```
 const assert = require('assert');
 const m = require('./');
