@@ -1,5 +1,5 @@
 {
-  "name": "data-types",
+  "name": "get-data-type",
   "version": "1.0.0",
   "description": "Get data's type",
   "main": "index.js",
@@ -13,15 +13,16 @@
     "get",
     "is"
   ],
-  "author": {
-	"name": "xuyunfei",
-    "email": "347394153@qq.com"
-  },
+  "author": "xuyunfei <347394153@qq.com>",
   "license": "MIT",
   "dependencies": {},
   "devDependencies": {},
   "repository": {
     "type": "git",
-    "url": "https://github.com/succeed2011/data-type"
-  }
+    "url": "git+https://github.com/succeed2011/get-data-type.git"
+  },
+  "bugs": {
+    "url": "https://github.com/succeed2011/get-data-type/issues"
+  },
+  "homepage": "https://github.com/succeed2011/get-data-type#readme"
 }
