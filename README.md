@@ -1,6 +1,7 @@
 # data-type
 Get data's type
 
+```
 const assert = require('assert');
 const m = require('./');
 
@@ -16,3 +17,4 @@ assert(m([]) === 'array', 'should return array');
 assert(m(()=>{}) === 'function', 'should return function');
 assert(m(new Date()) === 'date', 'should return date');
 assert(m(new RegExp()) === 'regexp', 'should return regexp');
+```
