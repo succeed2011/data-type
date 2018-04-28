@@ -1,0 +1,27 @@
+{
+  "name": "data-type",
+  "version": "1.0.0",
+  "description": "Get data's type",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "keywords": [
+    "Dcheck",
+    "type",
+    "data",
+    "get",
+    "is"
+  ],
+  "author": {
+	"name": "xuyunfei",
+    "email": "347394153@qq.com"
+  },
+  "license": "MIT",
+  "dependencies": {},
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/succeed2011/data-type"
+  }
+}
