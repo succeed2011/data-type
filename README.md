@@ -1,10 +1,12 @@
 # get-data-type
 Get data's type
 
-## how to use get-data-type
+## install
 ```
 npm install --save data-type
 ```
+
+## usage
 ```
 const dataType = require('get-data-type');
 
