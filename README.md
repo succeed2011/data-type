@@ -31,3 +31,6 @@ assert(m(()=>{}) === 'function', 'should return function');
 assert(m(new Date()) === 'date', 'should return date');
 assert(m(new RegExp()) === 'regexp', 'should return regexp');
 ```
+
+## license
+MIT
