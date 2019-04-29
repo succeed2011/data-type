@@ -3,7 +3,7 @@ Get data's type
 
 ## install
 ```
-npm install --save data-type
+npm install --save get-data-type
 ```
 
 ## usage
